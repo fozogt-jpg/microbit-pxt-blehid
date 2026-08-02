@@ -45,10 +45,7 @@
         "test.ts"
     ],
     "public": true,
-    "targetVersions": {
-        "target": "6.0.26",
-        "targetId": "microbit"
-    },
+
     "supportedTargets": [
         "microbit"
     ],
@@ -60,11 +57,7 @@
         "Bill Siever <bsiever@gmail.com>",
         "Fozogt-jpg - one edit"
     ],
-    "card": {
-        "name": "Bluetooth Human Interfaces",
-        "imageUrl": "file:../icon.png",
-        "feedbackUrl": "https://github.com/bsiever/microbit-pxt-blehid/discussions/16"
-    },
+
     "yotta": {
         "config": {
             "microbit-dal": {
