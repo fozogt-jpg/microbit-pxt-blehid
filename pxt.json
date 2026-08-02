@@ -16,7 +16,6 @@
         "debug.h",
         "shims.d.ts",
         "enums.d.ts",
-        "main.py",
         "ascii2scan.cpp",
         "ascii2scan.h",
         "keyboard.ts",
